@@ -1,4 +1,6 @@
-const apiKey="e7d2d02e1698fdbd2200e185eac1b1d2";
+import {apiKey} from './creds.js'
+
+
 const apiURL="https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 
 
